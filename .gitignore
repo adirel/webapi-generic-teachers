@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/DemoWebAPIPrj/Areas/HelpPage/Views/Help
+/DemoWebAPIPrj/bin
+/DemoWebAPIPrj/fonts
+/DemoWebAPIPrj/obj/Debug
+/DemoWebAPIPrj/Scripts
+/packages
